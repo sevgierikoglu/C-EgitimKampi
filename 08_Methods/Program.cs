@@ -10,6 +10,9 @@ namespace _08_Methods
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sevgi Erikoğlu");
         }
+       
+    
     }
 }
