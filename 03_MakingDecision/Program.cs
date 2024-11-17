@@ -50,7 +50,7 @@ namespace KAMPDERSI3
             //Console.Write("Yaşamış olduğunuz Ülkeyi giriniz : ");
             //contry = Console.ReadLine();
 
-            //Console.Write("Lütfen başkenti giriniz : ");
+            //Console.Write("Lütfen başkenti giriniz : "); 
             //capital = Console.ReadLine();
 
 
@@ -217,59 +217,59 @@ namespace KAMPDERSI3
 
             #region ORNEK PROJE
 
-            Console.WriteLine("----------- C# Restoranları ----------");
-            Console.WriteLine();
-            Console.WriteLine("1. Ana Yemekler");
-            Console.WriteLine("2. Çorbalar");
-            Console.WriteLine("3. Pizzalar");
-            Console.WriteLine("4. Tatlılar");
-            Console.WriteLine("5. İçecekler");
+            //Console.WriteLine("----------- C# Restoranları ----------");
+            //Console.WriteLine();
+            //Console.WriteLine("1. Ana Yemekler");
+            //Console.WriteLine("2. Çorbalar");
+            //Console.WriteLine("3. Pizzalar");
+            //Console.WriteLine("4. Tatlılar");
+            //Console.WriteLine("5. İçecekler");
 
-            string menuItem;
+            //string menuItem;
 
-            Console.Write("Görmek istediğinzi menüyü seçiniz : ");
-            menuItem = Console.ReadLine();
+            //Console.Write("Görmek istediğinzi menüyü seçiniz : ");
+            //menuItem = Console.ReadLine();
 
-            if (menuItem =="1" )
-            {
-                Console.WriteLine();
-                Console.WriteLine("--------Ana Yemekler ----------");
-                Console.WriteLine("1. Sarma");
-                Console.WriteLine("2. Patlıcan Musakka");
-                Console.WriteLine("3. Köri soslu tavuk");
-            }
-            if (menuItem == "2")
-            {
-                Console.WriteLine();
-                Console.WriteLine("--------Çorbalar----------");
-                Console.WriteLine("1. Mercimek Çorbası");
-                Console.WriteLine("2. Yoğurt Çorbası");
-                Console.WriteLine("3. Ezogelin Çorbası");
-            }
-            if (menuItem == "3")
-            {
-                Console.WriteLine();
-                Console.WriteLine("--------Pizzalar----------");
-                Console.WriteLine("1. Mantarlı Pizza");
-                Console.WriteLine("2. Tavuklu Pizza");
-                Console.WriteLine("3. Sebzeli Pizza");
-            }
-            if (menuItem == "4")
-            {
-                Console.WriteLine();
-                Console.WriteLine("--------Tatlılar----------");
-                Console.WriteLine("1. Triliçe");
-                Console.WriteLine("2. Kazandibi");
-                Console.WriteLine("3. Profiterol");
-            }
-            if (menuItem == "5")
-            {
-                Console.WriteLine();
-                Console.WriteLine("--------İçecekler----------");
-                Console.WriteLine("1. Su");
-                Console.WriteLine("2. Soda");
-                Console.WriteLine("3. Kola");
-            }
+            //if (menuItem =="1" )
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("--------Ana Yemekler ----------");
+            //    Console.WriteLine("1. Sarma");
+            //    Console.WriteLine("2. Patlıcan Musakka");
+            //    Console.WriteLine("3. Köri soslu tavuk");
+            //}
+            //if (menuItem == "2")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("--------Çorbalar----------");
+            //    Console.WriteLine("1. Mercimek Çorbası");
+            //    Console.WriteLine("2. Yoğurt Çorbası");
+            //    Console.WriteLine("3. Ezogelin Çorbası");
+            //}
+            //if (menuItem == "3")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("--------Pizzalar----------");
+            //    Console.WriteLine("1. Mantarlı Pizza");
+            //    Console.WriteLine("2. Tavuklu Pizza");
+            //    Console.WriteLine("3. Sebzeli Pizza");
+            //}
+            //if (menuItem == "4")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("--------Tatlılar----------");
+            //    Console.WriteLine("1. Triliçe");
+            //    Console.WriteLine("2. Kazandibi");
+            //    Console.WriteLine("3. Profiterol");
+            //}
+            //if (menuItem == "5")
+            //{
+            //    Console.WriteLine();
+            //    Console.WriteLine("--------İçecekler----------");
+            //    Console.WriteLine("1. Su");
+            //    Console.WriteLine("2. Soda");
+            //    Console.WriteLine("3. Kola");
+            //}
 
             #endregion
 
