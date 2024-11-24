@@ -42,7 +42,7 @@ namespace _08_Methods
             //void WriteMetod(string customerName)
             //{
             //    WriteMetod("Mehmet YILDIRIM");
-
+             
             //}
 
             //void CustomerCard(string name, string surNamr)
